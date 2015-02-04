@@ -1,0 +1,2 @@
+# GOmaha
+Omaha poker bot
